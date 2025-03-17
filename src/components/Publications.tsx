@@ -13,14 +13,14 @@ const Publications = () => {
       type: 'Patent',
       year: '2023'
     },
-    {
-      title: 'A Survey on Big Data in Cyber Security',
-      authors: '6 authors',
-      event: 'IEEE International Conference on Multidisciplinary Research in Technology and Management (MRTM23), New Horizon College of Engineering, Bengaluru',
-      details: 'Scopus Index yet to be released',
-      type: 'Publication',
-      year: '2023'
-    },
+    // {
+    //   title: 'A Survey on Big Data in Cyber Security',
+    //   authors: '6 authors',
+    //   event: 'IEEE International Conference on Multidisciplinary Research in Technology and Management (MRTM23), New Horizon College of Engineering, Bengaluru',
+    //   details: 'Scopus Index yet to be released',
+    //   type: 'Publication',
+    //   year: '2023'
+    // },
     {
       title: 'Smart Ticketing System for Smart Cities',
       authors: '7 authors',
@@ -28,15 +28,15 @@ const Publications = () => {
       details: 'Application Number - 202141026348 A',
       type: 'Patent',
       year: '2021'
-    },
-    {
-      title: 'Machine Learning in Precision Agriculture',
-      authors: '6 authors',
-      event: 'IEEE 4th International Conference on Communication, Computing and Industry (C216-2023), CMR College Bengaluru',
-      details: 'Scopus Index yet to be released',
-      type: 'Publication',
-      year: '2023'
-    },
+    }
+    // {
+    //   title: 'Machine Learning in Precision Agriculture',
+    //   authors: '6 authors',
+    //   event: 'IEEE 4th International Conference on Communication, Computing and Industry (C216-2023), CMR College Bengaluru',
+    //   details: 'Scopus Index yet to be released',
+    //   type: 'Publication',
+    //   year: '2023'
+    // },
   ];
 
   return (
